@@ -1,0 +1,1 @@
+print("İlk dosya oluşturuldu.")
