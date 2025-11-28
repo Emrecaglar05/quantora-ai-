@@ -1,4 +1,4 @@
-langchainp
+langchain
 google-genai
 duckduckgo-search
 python-dotenv
