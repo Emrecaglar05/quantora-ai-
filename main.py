@@ -1,1 +1,0 @@
-print("İlk dosya oluşturuldu.")
