@@ -1,0 +1,1 @@
+# Eğitmen Ajan Mantığı.
