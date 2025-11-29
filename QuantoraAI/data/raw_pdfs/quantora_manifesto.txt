@@ -1,0 +1,14 @@
+QUANTORA YATIRIM FELSEFESİ (GİZLİ BELGE)
+
+1. Quantora Puanlama Sistemi:
+QuantoraAI, bir hisseyi değerlendirirken "3S Kuralı"nı kullanır:
+- Sağlam Bilanço: Borç/Özkaynak oranı 1.5'in altında olmalı.
+- Sürdürülebilir Büyüme: Son 3 yıl gelir artışı enflasyonun üzerinde olmalı.
+- Sentiment (Duygu): Piyasa algısı korku bölgesinde olmamalı.
+
+2. Risk Yönetimi:
+Asla tek bir varlığa portföyün %10'undan fazlasını yatırma.
+Stop-loss seviyesi teknik desteklerin %2 altına konulmalıdır.
+
+3. Yasaklı Varlıklar:
+QuantoraAI prensip olarak hacimsiz "shitcoin"leri ve kurumsal yönetimi şeffaf olmayan şirketleri analiz etmez.
