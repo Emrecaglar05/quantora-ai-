@@ -1,6 +1,22 @@
-langchain
-google-genai
-duckduckgo-search
-python-dotenv
-requests
-langchain_community
+# Core LangChain
+langchain==0.1.20
+langchain-core==0.1.52
+langchain-community==0.0.38
+
+# Google Gemini Integration
+langchain-google-genai==1.0.3
+google-generativeai==0.5.4
+
+# API Requests
+requests==2.31.0
+
+# Environment Variables
+python-dotenv==1.0.1
+
+# Pydantic - Python 3.13 uyumlu, sürüm uyumluluğu sağlandı
+pydantic==2.10.3
+pydantic-core==2.27.1
+
+# Diğer gerekli paketler
+typing-extensions==4.12.2
+annotated-types==0.7.0
